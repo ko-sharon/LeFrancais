@@ -85,3 +85,7 @@
 - **de → d'** before a vowel (élision): *le chat d'Yvonne*, not *de Yvonne*.
 - **ne…pas** wraps the verb: *il n'a pas*, *ce ne sont pas*. In spoken French you'll often hear just *pas*, but always write both.
 - **est / sont** = is / are (describing). **a / ont** = has / have (possessing). This distinction is the core of Chapter 1.
+
+---
+
+⬅  [Back to Main Menu](README.md)
