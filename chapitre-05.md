@@ -57,7 +57,44 @@
 
 ---
 
-## Exercice — Supply the question
+## Résumé — Supply the question (Section 1)
+_est-il / est-elle / est-ce / a-t-il / a-t-elle / sont-ils / sont-elles / sont-ce / ont-ils / ont-elles / y a-t-il_
+
+| Answer given | Question to supply |
+|---|---|
+| Oui, Minet est un chat. | Minet, est-ce un chat ? |
+| Oui, Nicole a une sœur. | Nicole, a-t-elle une sœur ? |
+| Non, Fido est un chien. | Fido, est-ce un chien ? |
+| Oui, Jean a un frère. | Jean, a-t-il un frère ? |
+| Oui, Jean et Nicole sont les enfants de M. et Mme Duclos. | Jean et Nicole, sont-ce les enfants de M. et Mme Duclos ? |
+| Non, Nicole a seulement une sœur. | Nicole, a-t-elle deux sœurs ? |
+| Oui, Médor est dans la maison. | Médor, est-il dans la maison ? |
+| Oui, Yvonne et Nicole ont deux frères. | Yvonne et Nicole, ont-elles deux frères ? |
+| Oui, il y a deux garçons dans la maison. | Y a-t-il deux garçons dans la maison ? |
+| Oui, Minet et Fido sont aussi dans la maison. | Minet et Fido, sont-ils aussi dans la maison ? |
+| Non, Jean et Henri ont deux sœurs. | Jean et Henri, ont-ils deux frères ? |
+| Non, Yvonne et Nicole ne sont pas dans la maison. | Yvonne et Nicole, sont-elles dans la maison ? |
+| Non, il y a seulement deux chiens dans la maison. | Y a-t-il trois chiens dans la maison ? |
+| Oui, la mère est dans la maison. | La mère, est-elle dans la maison ? |
+
+---
+
+## Résumé — Supply the question (Section 2)
+_parles-tu / parle-t-il / parle-t-elle / parlent-ils / parlent-elles / demeures-tu / demeure-t-il / demeure-t-elle / demeurent-ils / demeurent-elles_
+
+| Answer given | Question to supply |
+|---|---|
+| Oui, les Duclos demeurent à Paris. | Les Duclos, demeurent-ils à Paris ? |
+| Oui, mon père parle anglais. | Jean, ton père, parle-t-il anglais ? |
+| Non, je ne parle pas anglais. | Nicole, parles-tu anglais ? |
+| Oui, mon frère demeure à Paris. | Henri, ton frère, demeure-t-il à Paris ? |
+| Non, je ne demeure pas à Marseille. | Jean, demeures-tu à Marseille ? |
+| Non, elles ne parlent pas anglais. | Tes sœurs, parlent-elles anglais ? |
+
+---
+
+## Résumé — Supply the question (Section 3)
+_Combien / Où / Quand / Quel / Quelle / Dans quel_
 
 | Answer given | Question to supply |
 |---|---|
