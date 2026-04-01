@@ -1,6 +1,6 @@
 # Le Français par la Méthode Nature — Answer Key
 
-> Answers compiled chapter by chapter. Each answer is traced back to the chapter text wherever possible, in the spirit of the natural method.
+Answers compiled chapter by chapter. Each answer is traced back to the chapter text wherever possible, in the spirit of the natural method.
 
 ---
 
