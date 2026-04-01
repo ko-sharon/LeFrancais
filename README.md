@@ -5,11 +5,11 @@ Answers compiled chapter by chapter. Each answer is traced back to the chapter t
 ---
 
 ## Table of Contents
-- [Chapitre 1 — Les Duclos](#chapitre-1--les-duclos)
-- [Chapitre 2 — La Famille](#chapitre-2--la-famille)
-- [Chapitre 3 — L'Année](#chapitre-3--lannée)
-- [Chapitre 4 — Les Grands-Parents](#chapitre-4--les-grands-parents)
-- [Chapitre 5 — Villes et Pays](#chapitre-5--villes-et-pays)
+- [Chapitre 1 — Les Duclos](chapitre-01.md)
+- [Chapitre 2 — La Famille](chapitre-02.md)
+- [Chapitre 3 — L'Année](chapitre-03.md)
+- [Chapitre 4 — Les Grands-Parents](chapitre-04.md)
+- [Chapitre 5 — Villes et Pays](chapitre-05.md)
 
 ---
 
