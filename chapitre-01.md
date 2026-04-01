@@ -1,7 +1,5 @@
 # Chapitre 1 — Les Duclos
 
-> Answers traced back to the chapter text wherever possible.
-
 ---
 
 ## Exercice A — Fill in the blanks
