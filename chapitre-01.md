@@ -1,7 +1,5 @@
 # Chapitre 1 — Les Duclos
 
----
-
 ## Exercice A — Fill in the blanks
 
 | Sentence | Answer | Note |
