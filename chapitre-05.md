@@ -64,7 +64,7 @@ _est-il / est-elle / est-ce / a-t-il / a-t-elle / sont-ils / sont-elles / sont-c
 |---|---|
 | Oui, Minet est un chat. | Minet, est-ce un chat ? |
 | Oui, Nicole a une sœur. | Nicole, a-t-elle une sœur ? |
-| Non, Fido est un chien. | Fido, est-ce un chien ? |
+| Non, Fido est un chien. | Fido, est-ce un chat ? |
 | Oui, Jean a un frère. | Jean, a-t-il un frère ? |
 | Oui, Jean et Nicole sont les enfants de M. et Mme Duclos. | Jean et Nicole, sont-ce les enfants de M. et Mme Duclos ? |
 | Non, Nicole a seulement une sœur. | Nicole, a-t-elle deux sœurs ? |
@@ -72,7 +72,7 @@ _est-il / est-elle / est-ce / a-t-il / a-t-elle / sont-ils / sont-elles / sont-c
 | Oui, Yvonne et Nicole ont deux frères. | Yvonne et Nicole, ont-elles deux frères ? |
 | Oui, il y a deux garçons dans la maison. | Y a-t-il deux garçons dans la maison ? |
 | Oui, Minet et Fido sont aussi dans la maison. | Minet et Fido, sont-ils aussi dans la maison ? |
-| Non, Jean et Henri ont deux sœurs. | Jean et Henri, ont-ils deux frères ? |
+| Oui, Jean et Henri ont deux sœurs. | Jean et Henri, ont-ils deux sœurs ? |
 | Non, Yvonne et Nicole ne sont pas dans la maison. | Yvonne et Nicole, sont-elles dans la maison ? |
 | Non, il y a seulement deux chiens dans la maison. | Y a-t-il trois chiens dans la maison ? |
 | Oui, la mère est dans la maison. | La mère, est-elle dans la maison ? |
@@ -101,7 +101,7 @@ _Combien / Où / Quand / Quel / Quelle / Dans quel_
 | L'anniversaire de Jean, c'est le sept juin. | Quand est-ce l'anniversaire de Jean ? |
 | Les enfants parlent français. | Quelle langue parlent les enfants ? |
 | Il y a six personnes dans la famille. | Combien de personnes y a-t-il dans la famille ? |
-| La famille Duclos demeure en France. | Dans quel pays les Duclos demeurent-ils ? |
+| La famille Duclos demeure en France. | Dans quel pays la famille Duclos demeure-t-elle ? |
 | En Angleterre, on parle anglais. | Quelle langue parle-t-on en Angleterre ? |
 | Yvonne a une sœur. | Combien de sœurs Yvonne a-t-elle ? |
 | Le prénom de M. Duclos est Pierre. | Quel est le prénom de M. Duclos ? |
