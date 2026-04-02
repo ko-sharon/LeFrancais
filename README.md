@@ -13,6 +13,7 @@ This repository is an attempt to fill that gap. It provides answers compiled cha
 - [Chapitre 3 — L'Année](chapitre-03.md)
 - [Chapitre 4 — Les Grands-Parents](chapitre-04.md)
 - [Chapitre 5 — Villes et Pays](chapitre-05.md)
+- [Chapitre 6 — La Famille Leroux](chapitre-06.md)
 
 
 
