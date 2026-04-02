@@ -1,8 +1,10 @@
 # Le Français par la Méthode Nature — Answer Key
 
-Answers are compiled chapter by chapter. Each answer is traced back to the chapter text wherever possible, in the spirit of the natural method.
+After stumbling upon [*Le Français par la Méthode Nature*](https://archive.org/details/jensen-arthur-le-francais-par-la-methode-nature) along with its accompanying [audio track](https://www.youtube.com/watch?v=0uS5WSeH8iM), I found it to be an effective (albeit somewhat slow and repetitive) way to learning French naturally. I’m a huge fan, but without an answer key for the exercises I was nervous about whether I was actually on the right track or completely misunderstanding French.
 
-This project contains content generated with the assistance of AI. I am definitely not a French expert, so there may be errors or inconsistencies; so please use this as a supplementary resource, not a definitive guide. Feel free to suggest edits or improvements!
+This repository is an attempt to fill that gap. It provides answers compiled chapter by chapter, with each response grounded in the original text wherever possible, in keeping with the spirit of the natural method.
+
+⚠️ **Disclaimer:** This project contains content generated with the assistance of AI. I am definitely not a French expert, so there may be errors or inconsistencies; so please use this as a supplementary resource, not a definitive guide. Feel free to suggest edits or improvements!
 
 
 ## Table of Contents
