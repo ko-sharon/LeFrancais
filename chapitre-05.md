@@ -12,12 +12,12 @@
 | La France et l'Allemagne sont deux — | **pays** | *L'Angleterre est un grand pays. La France est aussi un grand pays* |
 | Les Français sont les — de la France | **habitants** | *les Français sont les habitants de la France* |
 | Les Français — français | **parlent** | *Les Français parlent français* |
-| La France a quarante-deux — d'habitants ; c'est un grand — d'habitants | **millions / nombre** | *La France a quarante-deux millions d'habitants* |
+| La France a quarante-deux — d'habitants ; c'est un grand — d'habitants | **millions; nombre** | *La France a quarante-deux millions d'habitants* |
 | L'Angleterre a — d'habitants que la France | **plus** | *l'Angleterre a plus d'habitants que la France* |
-| — est Marseille ? Marseille est en — | **Où / France** | *Marseille est en France* |
-| — langue parlent les Français ? Les Français parlent — | **Quelle / français** | *Quelle langue parlent les Français ? Ils parlent français* |
-| — parle anglais en Angleterre | **On** | *on parle anglais en Angleterre* |
-| «Jean, quelle langue parles- — ?» «— parle français.» | **tu / Je** | *je ne parle que français* |
+| — est Marseille ? Marseille est en — | **Où; France** | *Marseille est en France* |
+| — langue parlent les Français ? Les Français parlent — | **Quelle; français** | *Quelle langue parlent les Français ? Ils parlent français* |
+| Quelle — parle-t-on en Angleterre ? — parle anglais. | **langue; On** | *on parle anglais en Angleterre* |
+| «Jean, quelle langue parles- — ?» «— parle français.» | **tu; Je** | *je ne parle que français* |
 
 ---
 
