@@ -38,9 +38,9 @@
 
 | Sentence | Answer | Note |
 |---|---|---|
-| «Jean, qui est — père ?» «— père, c'est M. Duclos.» | **ton / Mon** | addressing Jean (tu) → ton ; Jean replies → Mon |
-| «Henri, où demeurent — grands-parents ?» «— grands-parents demeurent à Marseille.» | **tes / Mes** | addressing Henri (tu) → tes ; Henri replies → Mes |
-| «Yvonne, quel est le prénom de — mère ?» «Le prénom de — mère est Lucienne.» | **ta / ma** | addressing Yvonne (tu) → ta ; Yvonne replies → ma |
+| «Jean, qui est — père ?» «— père, c'est M. Duclos.» | **ton; Mon** | addressing Jean (tu) → ton ; Jean replies → Mon |
+| «Henri, où demeurent — grands-parents ?» «— grands-parents demeurent à Marseille.» | **tes; Mes** | addressing Henri (tu) → tes ; Henri replies → Mes |
+| «Yvonne, quel est le prénom de — mère ?» «Le prénom de — mère est Lucienne.» | **ta; ma** | addressing Yvonne (tu) → ta ; Yvonne replies → ma |
 
 ---
 
@@ -48,12 +48,12 @@
 
 | Sentence | Answer | Note |
 |---|---|---|
-| Les Français — en France et ils — français | **demeurent / parlent** | ils → -ent |
+| Les Français — en France et ils — français | **demeurent; parlent** | ils → -ent |
 | M. Duclos — à Paris | **demeure** | il → -e |
 | Mme Lebrun : «Je — anglais et français» | **parle** | je → -e |
 | Henri, —-tu aussi anglais et français ? | **parles** | tu → -es |
 | M. Duclos — français, anglais et allemand | **parle** | il → -e |
-| Mme Leroux : «Je — à Paris ; —-tu aussi à Paris ?» | **demeure / demeures** | je → -e ; tu → -es |
+| Mme Leroux : «Je — à Paris ; —-tu aussi à Paris ?» | **demeure; demeures** | je → -e ; tu → -es |
 
 ---
 
