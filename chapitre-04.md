@@ -10,11 +10,11 @@
 | Mme Duclos a un — nom de famille que ses parents | **autre** | *elle a un autre nom de famille que son père et sa mère* |
 | Mais Nicole a le — nom de famille que son père et sa mère | **même** | *Nicole a aussi le même nom de famille que ses parents* |
 | M. et Mme Duclos ont le même nom de famille, — ils n'ont pas le même prénom | **mais** | *ils ont le même nom de famille, mais ils n'ont pas le même prénom* |
-| C'est Yvonne — est la plus jeune ; elle n'a — cinq ans | **qui / que** | *C'est Yvonne qui est la plus jeune ; elle n'a que cinq ans* |
-| Nicole — quinze ans ; elle est de deux — plus âgée que Jean | **a / ans** | *Nicole a quinze ans ; elle est de deux ans plus âgée que Jean* |
-| Quel — Jean a-t-il ? Il a — ans | **âge / treize** | *Jean a treize ans* |
-| L'— de Jean, est-ce le sept juin ? —, son anniversaire est le sept juin | **anniversaire / Oui** | *son anniversaire est le sept juin* |
-| — est-ce l'anniversaire de Nicole ? C'est — seize avril | **Quand / le** | *son anniversaire est le seize avril* |
+| C'est Yvonne — est la plus jeune ; elle n'a — cinq ans | **qui; que** | *C'est Yvonne qui est la plus jeune ; elle n'a que cinq ans* |
+| Nicole — quinze ans ; elle est de deux — plus âgée que Jean | **a; ans** | *Nicole a quinze ans ; elle est de deux ans plus âgée que Jean* |
+| Quel — Jean a-t-il ? Il a — ans | **âge; treize** | *Jean a treize ans* |
+| L'— de Jean, est-ce le sept juin ? —, son anniversaire est le sept juin | **anniversaire; Oui** | *son anniversaire est le sept juin* |
+| — est-ce l'anniversaire de Nicole ? C'est — seize avril | **Quand; le** | *son anniversaire est le seize avril* |
 
 ---
 
