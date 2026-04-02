@@ -13,11 +13,12 @@
 | Mme Duclos est la — de M. Duclos | **femme** | *Mme Duclos est la femme de M. Duclos* |
 | — y a deux garçons dans la famille | **Il** | *il y a deux garçons dans la famille* |
 | Il y a un père et une mère — la famille | **dans** | *il y a un père dans la famille Duclos* |
-| — d'enfants M. et Mme Duclos ont-ils ? Ils ont — enfants | **Combien / quatre** | *Combien d'enfants... Ils ont quatre enfants* |
-| Combien — filles y a-t-il ? Il — a deux filles | **de / y** | *il y a deux filles dans la famille* |
-| — est le nom du père ? Le — du père est M. Duclos | **Quel / nom** | *Le nom du père est M. Duclos* |
+| — d'enfants M. et Mme Duclos ont-ils ? Ils ont — enfants | **Combien; quatre** | *Combien d'enfants... Ils ont quatre enfants* |
+| Combien — filles y a-t-il ? Il — a deux filles | **de; y** | *il y a deux filles dans la famille* |
+| — est le nom du père ? Le — du père est M. Duclos | **Quel; nom** | *Le nom du père est M. Duclos* |
 | Nicole, a-t-elle un chien — un chat ? | **ou** | *Nicole a aussi un chien* |
-| Y a-t-il six enfants ? Non, il —'y a — six enfants | **n' / pas** | *il n'y a pas six enfants dans la famille* |
+| — a-t-il deux hommes dans la famille ? | **Y** | *Y a-t-il un père dans la famille?* |
+| Non, il —'y a — deux hommes dans la famille | **n'; pas** | *il n'y a pas six enfants dans la famille* |
 | L'homme, c'est — Duclos | **M.** | *L'homme, c'est M. Duclos* |
 | Il y — aussi une femme dans la famille | **a** | *il y a aussi une mère dans la famille* |
 
