@@ -63,8 +63,8 @@
 | Henri est — garçon | **un** |
 | —'homme, c'est Monsieur Duclos | **L'** |
 | les deux garçons sont — fils de M. et Mme Duclos | **les** |
-| Nicole est — fille ; c'est — sœur d'Yvonne | **une / la** |
-| Fido est — chien ; c'est — chien de Nicole | **un / le** |
+| Nicole est — fille ; c'est — sœur d'Yvonne | **une; la** |
+| Fido est — chien ; c'est — chien de Nicole | **un; le** |
 
 ---
 
