@@ -13,16 +13,16 @@
 | Il y a douze mois : un (1), — (2), — (3), — (4), — (5), — (6), — (7), — (8), — (9), — (10), — (11), — (12) | **deux, trois, quatre, cinq, six, sept, huit, neuf, dix, onze, douze** | listed in text |
 | Trois mois ont — (13) semaines | **treize** | *Trois mois ont treize semaines* |
 | Deux semaines ont — (14) jours | **quatorze** | *Deux semaines ont quatorze jours* |
-| Le mois de février a — (28) ou — (29) jours | **vingt-huit / vingt-neuf** | *Le mois de février a vingt-huit ou vingt-neuf jours* |
+| Le mois de février a — (28) ou — (29) jours | **vingt-huit; vingt-neuf** | *Le mois de février a vingt-huit ou vingt-neuf jours* |
 | Le mois de juin a — (30) jours | **trente** | *juin a seulement trente jours* |
-| Juillet a — et — (31) jours | **trente / un** | *janvier a trente et un jours* |
+| Juillet a — et — (31) jours | **trente; un** | *janvier a trente et un jours* |
 | Janvier est le — mois de l'année | **premier** | *Janvier est le premier mois de l'année* |
 | Février est le — mois de l'année | **deuxième** | *Février est le deuxième mois* |
 | Août est le — mois de l'année | **huitième** | *Août est le huitième mois* |
 | Septembre est le — mois de l'année | **neuvième** | *Septembre est le neuvième mois* |
-| Décembre est le douzième mois —; c'est aussi le — mois de l'année | **de l'année / dernier** | *Décembre est le dernier mois de l'année* |
-| Il n'y a — de treizième mois ; une année a — douze mois | **pas / seulement** | *il n'y a pas de treizième mois ; une année a seulement douze mois* |
-| Il n'y a pas — huitième jour ; une semaine a seulement — jours | **de / sept** | *il n'y a pas de huitième jour dans la semaine* |
+| Décembre est le douzième mois — l'année; c'est aussi le — mois de l'année | **de dernier** | *Décembre est le dernier mois de l'année* |
+| Il n'y a — de treizième mois ; une année a — douze mois | **pas; seulement** | *il n'y a pas de treizième mois ; une année a seulement douze mois* |
+| Il n'y a pas — huitième jour ; une semaine a seulement — jours | **de; sept** | *il n'y a pas de huitième jour dans la semaine* |
 
 ---
 
