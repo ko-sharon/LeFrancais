@@ -106,7 +106,7 @@ _Combien / Où / Quand / Quel / Quelle / Dans quel_
 | Yvonne a une sœur. | Combien de sœurs Yvonne a-t-elle ? |
 | Le prénom de M. Duclos est Pierre. | Quel est le prénom de M. Duclos ? |
 | Paris est en France. | Dans quel pays est Paris ? / Où est Paris ? |
-| Henri a huit ans. | Quel âge Henri a-t-il ? |
+| Henri a huit ans. | Quel âge Henri a-t-il ? / Quel âge a Henri ? |
 
 ---
 
