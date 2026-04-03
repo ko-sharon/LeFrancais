@@ -44,16 +44,16 @@ This is the rule that surprises people most. After **ne...pas**, **ne...plus**, 
 
 | Positive | Negative |
 |---|---|
-| Il y a **des** arbres. | Il n'y a pas **d'** arbres. |
+| Il y a **des** arbres. | Il n'y a pas **d**'arbres. |
 | Elle mange **des** carottes. | Elle ne mange pas **de** carottes. |
-| Il a **des** amis. | Il n'a pas **d'** amis. |
+| Il a **des** amis. | Il n'a pas **d**'amis. |
 
 #### After quantity expressions:
 
 | French | English |
 |---|---|
 | beaucoup **de** fruits | a lot of fruit |
-| peu **d'** arbres | few trees |
+| peu **d**'arbres | few trees |
 | assez **de** vin | enough wine |
 | trop **de** chocolat | too much chocolate |
 | un verre **de** vin | a glass of wine |
