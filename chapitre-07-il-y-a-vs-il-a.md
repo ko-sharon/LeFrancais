@@ -65,3 +65,9 @@ Fill in the blank. Answers at the bottom.
 4. Il y avait beaucoup de monde à la fête.
 5. Il a deux sœurs.
 6. Il y aura un examen demain.
+
+---
+
+📝 [Back to Chapitre 7](chapitre-07.md)
+
+⬅ [Back to Main Menu](README.md)
