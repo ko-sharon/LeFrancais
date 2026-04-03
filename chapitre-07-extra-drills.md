@@ -70,7 +70,7 @@ Fill in the blank. Answers at the bottom.
 
 ## Concept 2 — *de* vs *des*
 
-### The three jobs of *de* and *des*
+### The five jobs of *de* and *des*
 
 This one trips up almost every English speaker because English uses one word — "of" or "some" — loosely. French is more precise.
 
