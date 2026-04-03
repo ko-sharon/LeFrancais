@@ -285,6 +285,6 @@ When the subject is a noun (not je/tu/il), you must **keep the noun AND add a pr
 
 ---
 
-📝 [Back to Chapter 5](chapitre-05s.md)
+📝 [Back to Chapter 5](chapitre-05.md)
 
 ⬅ [Back to Main Menu](README.md)
