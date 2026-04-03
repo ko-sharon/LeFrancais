@@ -1,8 +1,8 @@
 # French Guide: Tricky Concepts from Chapitre 7
 
-## Concept 2 — *de* vs *des*
+## Concept 2 — *des* vs *de*
 
-### The five jobs of *de* and *des*
+### The five jobs of *des* and *de*
 
 This one trips up almost every English speaker because English uses one word — "of" or "some" — loosely. French is more precise.
 
