@@ -4,7 +4,7 @@
 
 ### What you need to feel
 
-*Il y a* is a frozen, impersonal phrase. Think of it like 有 in Mandarin — it describes the **existence** of something, usually somewhere. You never split it up.
+*Il y a* is a frozen, impersonal phrase. It describes the **existence** of something, usually somewhere. You never split it up.
 
 *Il a* means **he has**. There is a real person holding or owning something.
 
@@ -95,7 +95,7 @@ When you talk about a **plural thing in general**, without specifying exactly wh
 
 ### Job B — *de* = of (possession / relationship)
 
-When linking two nouns to show **belonging or relationship**, use *de*. This is like 的 in Mandarin.
+When linking two nouns to show **belonging or relationship**, use *de*. 
 
 | French | English |
 |---|---|
@@ -148,8 +148,6 @@ This use of *de* marks a **range** — in time, distance, or sequence. It always
 > **Note:** *de le* contracts to **du**, and *de les* contracts to **des**.  
 > So *de le lundi* → **du lundi**, and *de les enfants* → **des enfants**.  
 > This is why *des* sometimes looks like Job A ("some") but is actually a contraction. Context tells you which it is.
-
-> **Mandarin parallel:** 从……到…… works the same way — 从巴黎到马赛 = *de Paris à Marseille*. The logic is identical.
 
 ---
 
@@ -275,11 +273,7 @@ When *que* appears in the **middle** of a sentence connecting two parts, it is a
 - Question *que*: sits at the **start** of a question. → *Que manges-tu?*
 - Relative *que*: sits **after a noun**, connecting two clauses. → *la poire **que** tu manges*
 
-#### A useful Mandarin comparison:
-Relative *que* works similarly to 的 in a relative clause:
-- 你吃的梨 = la poire que tu manges (the pear that you are eating)
-
-The key difference: in French, *que* comes **after** the noun it describes, not before.
+Note: in French, *que* comes **after** the noun it describes, not before.
 
 ---
 
