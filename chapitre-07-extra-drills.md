@@ -1,10 +1,5 @@
 # French Guide: Three Tricky Concepts from Chapitre 7
 
-> Written for a native English + Mandarin speaker targeting NCLC 7.  
-> Method: reading-first, pattern recognition, no abstract formulas.
-
----
-
 ## Concept 1 — *il y a* vs *il a*
 
 ### What you need to feel
@@ -394,4 +389,6 @@ Fill in the blank with the correct word or expression (*il y a / il a / de / des
 
 ---
 
-*Bonne continuation ! Lis beaucoup, et ces structures deviendront naturelles.*
+📝 [Back to Chapter 7](chapitre-07s.md)
+
+⬅ [Back to Main Menu](README.md)
