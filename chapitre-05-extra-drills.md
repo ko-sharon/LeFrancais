@@ -282,3 +282,9 @@ When the subject is a noun (not je/tu/il), you must **keep the noun AND add a pr
 | What is the… ? | **Quel est le / Quelle est la…** | *Quel est le prénom ?* |
 | How many… ? | **Combien de + inversion** | *Combien de langues parle-t-il ?* |
 | Noun subject question | **Noun + verb-t-pronoun** | *Jean parle-t-il anglais ?* |
+
+---
+
+📝 [Back to Chapter 5](chapitre-05s.md)
+
+⬅ [Back to Main Menu](README.md)
