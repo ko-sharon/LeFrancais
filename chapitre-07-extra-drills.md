@@ -68,8 +68,6 @@ Fill in the blank. Answers at the bottom.
 
 ---
 
----
-
 ## Concept 2 — *de* vs *des*
 
 ### The three jobs of *de* and *des*
