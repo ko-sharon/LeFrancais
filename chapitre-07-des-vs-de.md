@@ -8,22 +8,7 @@ This one trips up almost every English speaker because English uses one word —
 
 ---
 
-### Job A — *des* = some (indefinite plural)
-
-When you talk about a **plural thing in general**, without specifying exactly which ones, you use *des*. It is the plural of *un/une*.
-
-| French | English |
-|---|---|
-| Il y a des arbres devant la maison. | There are (some) trees in front of the house. |
-| Elle mange des poires. | She is eating (some) pears. |
-| Les enfants ont des cadeaux. | The children have (some) gifts. |
-| J'ai des amis à Paris. | I have (some) friends in Paris. |
-
-> In English, "some" is often dropped. In French, *des* cannot be dropped in this role.
-
----
-
-### Job B — *de* = of (possession / relationship)
+### Job A — *de* = of (possession / relationship)
 
 When linking two nouns to show **belonging or relationship**, use *de*. 
 
@@ -36,17 +21,30 @@ When linking two nouns to show **belonging or relationship**, use *de*.
 
 ---
 
-### Job C — *de* replaces *des* after negation or after expressions of quantity
+### Job B — *des* = some 
 
-This is the rule that surprises people most. After **ne...pas**, **ne...plus**, **ne...que** (sometimes), or after **quantity words** like *beaucoup de, peu de, assez de*, the *des* collapses into *de*.
+When you talk about a **plural thing in general**, without specifying exactly which ones, you use *des*. It is the plural of *un/une*. 
 
-#### After negation:
+> Indefinite Plural (IP)
+These are things that are **countable**, but you're not specifying how many (example: some ideas, some shoes, etc.)
+> Partitive Plural (PP)
+These are things that are **uncountable**, often abstract (example: information)
 
-| Positive | Negative |
+| French | English |
 |---|---|
-| Il y a **des** arbres. | Il n'y a pas **d**'arbres. |
-| Elle mange **des** carottes. | Elle ne mange pas **de** carottes. |
-| Il a **des** amis. | Il n'a pas **d**'amis. |
+| Il y a des arbres devant la maison. | IP: There are (some) trees in front of the house. |
+| Elle mange des poires. | IP: She is eating (some) pears. |
+| Les enfants ont des cadeaux. | IP: The children have (some) gifts. |
+| J'ai des amis à Paris. | IP: I have (some) friends in Paris. |
+| Il a reçu des renseignements. | PP: He got some information. |
+
+> In English, "some" is often dropped. In French, *des* cannot be dropped in this role.
+
+---
+
+### Job C — *des* reduces to *de* with adjective or negation
+
+> When **des** (from Job B) is used in front of an adjective, the *des* collapses into *de*.
 
 #### After quantity expressions:
 
@@ -56,10 +54,17 @@ This is the rule that surprises people most. After **ne...pas**, **ne...plus**, 
 | peu **d**'arbres | few trees |
 | assez **de** vin | enough wine |
 | trop **de** chocolat | too much chocolate |
-| un verre **de** vin | a glass of wine |
-| une tasse **de** café | a cup of coffee |
 
-> Notice: *peu d'arbres devant la maison* — this is exactly your sentence from the question! *Peu* is a quantity word, so *des arbres* becomes *de/d' arbres*.
+
+> When **des** (from Job B) is used in a negative construction, the *des* collapses into *de*.
+
+#### After negation:
+
+| Positive | Negative |
+|---|---|
+| Il y a **des** arbres. | Il n'y a pas **d**'arbres. |
+| Elle mange **des** carottes. | Elle ne mange pas **de** carottes. |
+| Il a **des** amis. | Il n'a pas **d**'amis. |
 
 ---
 
@@ -69,15 +74,15 @@ This use of *de* marks a **range** — in time, distance, or sequence. It always
 
 | French | English |
 |---|---|
-| de huit heures à midi | from eight o'clock to noon |
-| de Paris à Marseille | from Paris to Marseille |
-| du lundi au vendredi | from Monday to Friday |
-| de janvier à mars | from January to March |
-| de la maison à l'école | from the house to the school |
+| **de** huit heures **à** midi | from eight o'clock to noon |
+| **de** Paris **à** Marseille | from Paris to Marseille |
+| **de** janvier **à** mars | from January to March |
+| **de** la maison **à** l'école | from the house to the school |
+| *du* lundi *au* vendredi | from Monday to Friday |
 
 > **Note:** *de le* contracts to **du**, and *de les* contracts to **des**.  
 > So *de le lundi* → **du lundi**, and *de les enfants* → **des enfants**.  
-> This is why *des* sometimes looks like Job A ("some") but is actually a contraction. Context tells you which it is.
+> This is why *des* sometimes looks like Job B ("some") but is actually a contraction. Context tells you which it is.
 
 ---
 
