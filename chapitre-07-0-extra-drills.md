@@ -1,8 +1,8 @@
 # French Guide: Tricky Concepts from Chapitre 7
 
-* [Concept 1](chapitre-07-il-y-a-vs-il-a.md) — *il y a* vs *il a*
-* [Concept 2](chapitre-07-des-vs-de.md) — *des* vs *de*
-* [Concept 3](chapitre-07-que.md) — *que*
+* [Concept 1](chapitre-07-1-il-y-a-vs-il-a.md) — *il y a* vs *il a*
+* [Concept 2](chapitre-07-2-des-vs-de.md) — *des* vs *de*
+* [Concept 3](chapitre-07-3-que.md) — *que*
 
 ---
 
