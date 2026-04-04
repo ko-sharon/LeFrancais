@@ -29,7 +29,7 @@ When *que* appears in the **middle** of a sentence connecting two parts, it is a
 |---|---|
 | la poire **que** tu manges | the pear that you are eating |
 | le chien **que** j'ai vu | the dog that I saw |
-| la lettre **qu'**il a écrite | the letter that he wrote |
+| la lettre **qu**'il a écrite | the letter that he wrote |
 | les cadeaux **que** les enfants ont donnés | the gifts that the children gave |
 
 #### How to spot it:
