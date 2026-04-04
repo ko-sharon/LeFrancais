@@ -115,4 +115,4 @@ Label each *que* as Q (question) or R (relative).
 
 📝 [Back to Chapter 7](chapitre-07.md)
 
-⬅ [Back to Main Menu](README.md)
+⬅ [Back to Main Menu](../README.md)
