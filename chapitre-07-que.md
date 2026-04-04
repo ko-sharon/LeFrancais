@@ -15,7 +15,7 @@ When *que* starts a question, it means **what**. It replaces the object of the v
 | **Que** manges-tu? | What are you eating? |
 | **Que** boit-il? | What is he drinking? |
 | **Que** fait Amélie? | What is Amélie doing? |
-| **Qu'**est-ce que tu veux? | What do you want? |
+| **Qu**'est-ce **que** tu veux? | What do you want? |
 
 > *Que* shortens to *qu'* before a vowel: *Qu'est-ce que*, *qu'a-t-il dit?*
 
