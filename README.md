@@ -7,7 +7,7 @@ This repository is an attempt to fill that gap. It provides answers compiled cha
 ⚠️ **Disclaimer:** This project contains content generated with the assistance of AI. I am definitely not a French expert, so there may be errors or inconsistencies; so please use this as a supplementary resource, not a definitive guide. Feel free to suggest edits or improvements!
 
 
-## Table of Contents
+## 📕 Table of Contents
 - [Chapitre 1 — Les Duclos](chapitre-01.md)
 - [Chapitre 2 — La Famille](chapitre-02.md)
 - [Chapitre 3 — L'Année](chapitre-03.md)
@@ -16,4 +16,5 @@ This repository is an attempt to fill that gap. It provides answers compiled cha
 - [Chapitre 6 — La Famille Leroux](chapitre-06.md)
 - [Chapitre 7 — Le Jardin](chapitre-07.md)
 
-
+## 🗂️ Additional Resources
+- [Guide de Prononciation](additionalResources/prononciation-guide.md)
