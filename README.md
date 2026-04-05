@@ -15,6 +15,7 @@ This repository is an attempt to fill that gap. It provides answers compiled cha
 - [Chapitre 5 — Villes et Pays](chapitres/chapitre-05.md)
 - [Chapitre 6 — La Famille Leroux](chapitres/chapitre-06.md)
 - [Chapitre 7 — Le Jardin](chapitres/chapitre-07.md)
+- [Chapitre 8 — L'Heure](chapitres/chapitre-08.md)
 
 ## 🗂️ Additional Resources
 - [Guide de Prononciation](additionalResources/prononciation-guide.md)
