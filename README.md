@@ -16,6 +16,8 @@ This repository is an attempt to fill that gap. It provides answers compiled cha
 - [Chapitre 6 — La Famille Leroux](chapitres/chapitre-06.md)
 - [Chapitre 7 — Le Jardin](chapitres/chapitre-07.md)
 - [Chapitre 8 — L'Heure](chapitres/chapitre-08.md)
+- [Chapitre 9 — L'Anniversaire](chapitres/chapitre-09.md)
+- [Chapitre 10 — Le Déjeuner](chapitres/chapitre-10.md)
 
 ## 🗂️ Additional Resources
 - [Guide de Prononciation](additionalResources/prononciation-guide.md)
