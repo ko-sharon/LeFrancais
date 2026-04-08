@@ -18,6 +18,7 @@ This repository is an attempt to fill that gap. It provides answers compiled cha
 - [Chapitre 8 — L'Heure](chapitres/chapitre-08.md)
 - [Chapitre 9 — L'Anniversaire](chapitres/chapitre-09.md)
 - [Chapitre 10 — Le Déjeuner](chapitres/chapitre-10.md)
+- [Chapitre 11 — L'Après-midi](chapitres/chapitre-11.md)
 
 ## 🗂️ Additional Resources
 - [Guide de Prononciation](additionalResources/prononciation-guide.md)
