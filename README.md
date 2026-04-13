@@ -20,6 +20,7 @@ This repository is an attempt to fill that gap. It provides answers compiled cha
 - [Chapitre 10 — Le Déjeuner](chapitres/chapitre-10.md)
 - [Chapitre 11 — L'Après-midi](chapitres/chapitre-11.md)
 - [Chapitre 12 — Le Dîner](chapitres/chapitre-12.md)
+- [Chapitre 13 — Un Matin](chapitres/chapitre-13.md)
 
 ## 🗂️ Additional Resources
 - [Guide de Prononciation](additionalResources/prononciation-guide.md)
