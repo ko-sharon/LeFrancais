@@ -22,6 +22,7 @@ This repository is an attempt to fill that gap. It provides answers compiled cha
 - [Chapitre 12 — Le Dîner](chapitres/chapitre-12.md)
 - [Chapitre 13 — Un Matin](chapitres/chapitre-13.md)
 - [Chapitre 14 — Une Promenade au Bois](chapitres/chapitre-14.md)
+- [Chapitre 15 — Les Duclos vont à Saint-Gil](chapitres/chapitre-15.md)
 
 ## 🗂️ Additional Resources
 - [Guide de Prononciation](additionalResources/prononciation-guide.md)
