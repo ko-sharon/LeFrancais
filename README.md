@@ -25,6 +25,7 @@ This repository is an attempt to fill that gap. It provides answers compiled cha
 - [Chapitre 15 — Les Duclos vont à Saint-Gil](chapitres/chapitre-15.md)
 - [Chapitre 16 — Le Voyage](chapitres/chapitre-16.md)
 - [Chapitre 17 — Les Verbes Français](chapitres/chapitre-17.md)
+- [Chapitre 18 — Un Dimanche à la Campagne](chapitres/chapitre-18.md)
 
 ## 🗂️ Additional Resources
 - [Guide de Prononciation](additionalResources/prononciation-guide.md)
